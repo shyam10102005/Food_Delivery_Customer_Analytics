@@ -16,6 +16,7 @@ This project analyzes key metrics across a food delivery platform, providing act
 
 ## 📁 Repository Contents
 
+- `food_delivery_analytics_cleaned.csv`: The cleaned dataset used for the analysis, containing detailed customer, order, and delivery metrics.
 - `Food_Delivery_Customer_Analytics.pbix`: The interactive **Power BI** dashboard file containing data visualizations, KPIs, and visual analytics.
 - `Food_Delivery_Customer_Analytics.py`: A **Python** script (originally a Jupyter Notebook) that uses `pandas` and `matplotlib` to clean, transform, and visualize the data. It calculates correlations, trends, and summary statistics.
 - `Food_Delivery_Customer_Analytics.sql`: **SQL** scripts used to query and aggregate metrics from the database (e.g., revenue by city tier, monthly trends, delay impacts on ratings).
@@ -26,8 +27,6 @@ This project analyzes key metrics across a food delivery platform, providing act
 2. **Premium vs. Regular Customers**: Assessing the revenue contribution and cancellation rates of premium subscribers compared to regular users.
 3. **Logistics & Delays**: Understanding how delivery distance, weather severity, and traffic level scores impact average delivery times and delay probabilities.
 4. **Cancellations**: Investigating cancellation rates across different city tiers and customer types.
-
-
 
 ## 🛠️ Technology Stack
 
