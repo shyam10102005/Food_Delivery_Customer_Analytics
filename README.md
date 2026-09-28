@@ -20,10 +20,6 @@ This project analyzes key metrics across a food delivery platform, providing act
 - `Food_Delivery_Customer_Analytics.py`: A **Python** script (originally a Jupyter Notebook) that uses `pandas` and `matplotlib` to clean, transform, and visualize the data. It calculates correlations, trends, and summary statistics.
 - `Food_Delivery_Customer_Analytics.sql`: **SQL** scripts used to query and aggregate metrics from the database (e.g., revenue by city tier, monthly trends, delay impacts on ratings).
 
-## 🗂️ ER Diagram
-<!-- Add a link or screenshot of your Database ER Diagram below -->
-![ER Diagram Placeholder](https://via.placeholder.com/800x400?text=ER+Diagram+Placeholder)
-
 ## 🚀 Key Insights Explored
 
 1. **Revenue Trends**: Monthly revenue analysis to identify peak ordering periods.
