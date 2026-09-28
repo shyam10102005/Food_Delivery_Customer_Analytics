@@ -27,10 +27,7 @@ This project analyzes key metrics across a food delivery platform, providing act
 3. **Logistics & Delays**: Understanding how delivery distance, weather severity, and traffic level scores impact average delivery times and delay probabilities.
 4. **Cancellations**: Investigating cancellation rates across different city tiers and customer types.
 
-## 📈 Dashboard Preview
-<!-- Add links to your Power BI dashboard screenshots below -->
-![Dashboard Placeholder 1](https://via.placeholder.com/800x400?text=Dashboard+Page+1)
-![Dashboard Placeholder 2](https://via.placeholder.com/800x400?text=Dashboard+Page+2)
+
 
 ## 🛠️ Technology Stack
 
