@@ -20,12 +20,33 @@ This project analyzes key metrics across a food delivery platform, providing act
 - `Food_Delivery_Customer_Analytics.py`: A **Python** script (originally a Jupyter Notebook) that uses `pandas` and `matplotlib` to clean, transform, and visualize the data. It calculates correlations, trends, and summary statistics.
 - `Food_Delivery_Customer_Analytics.sql`: **SQL** scripts used to query and aggregate metrics from the database (e.g., revenue by city tier, monthly trends, delay impacts on ratings).
 
-## 🚀 Key Insights Explored
+## 🗂️ ER Diagram
+![Restaurant-ratings drawio](https://github.com/karlyndiary/Restaurant-Ratings-Analysis/assets/116041695/90bef193-a0bb-4211-96ca-a7587b16f2d1)
 
-1. **Revenue Trends**: Monthly revenue analysis to identify peak ordering periods.
-2. **Premium vs. Regular Customers**: Assessing the revenue contribution and cancellation rates of premium subscribers compared to regular users.
-3. **Logistics & Delays**: Understanding how delivery distance, weather severity, and traffic level scores impact average delivery times and delay probabilities.
-4. **Cancellations**: Investigating cancellation rates across different city tiers and customer types.
+## 🚀 Data Analysis & Insights
+
+### Local Insights:
+- **Consumer Distribution**: Most of the population is from San Luis Potosí, while the second largest group is from Cuernavaca, Morelos.
+- **Age Distribution**: Young adults under 30 years of age form the majority of the population.
+- **Smokers vs Non-smokers**: The vast majority of consumers are non-smokers.
+- **Parking Availability**: The majority of restaurants across all cities lack parking facilities.
+
+### Dining & Hospitality Insights:
+- **Price vs Parking**: Out of the 16 high-priced restaurants, all 16 have parking available. Medium and low-priced restaurants mostly lack valet parking.
+- **Alcohol Service**: 66.92% of restaurants don't offer alcohol, 6.93% offer a full bar, and 26.15% offer wine and beer.
+- **Transportation Methods**: 61% of consumers use public transportation, 27% use cars, and 11% walk.
+
+### Review Insights: 
+- **Top Restaurants by Food Rating**: Tortas Locas Hipocampo and Puesto de Tacos are highly rated for their food.
+- **Top Restaurants by Service Rating**: Tortas Locas Hipocampo, Puesto de Tacos, and Cafeteria y Restaurante El Pacífico have the highest service ratings.
+- **Top Restaurants by Overall Rating**: Tortas Locas Hipocampo and Puesto de Tacos boast the most highly satisfied consumers overall.
+
+## 📈 Dashboard Preview
+![Restaurant Ratings Analysis_page-0001](https://github.com/karlyndiary/Restaurant-Ratings-Analysis/assets/116041695/d60cc2b1-5067-4806-8163-bad81914dbd8)
+![Restaurant Ratings Analysis_page-0002](https://github.com/karlyndiary/Restaurant-Ratings-Analysis/assets/116041695/d31ff0e5-fe29-4d03-80b7-c86f6ee4a665)
+![Restaurant Ratings Analysis_page-0003](https://github.com/karlyndiary/Restaurant-Ratings-Analysis/assets/116041695/e5d81101-0b31-4969-8556-904dcf398737)
+![Restaurant Ratings Analysis_page-0004](https://github.com/karlyndiary/Restaurant-Ratings-Analysis/assets/116041695/800542ef-077e-4ed1-947e-b3e3cd7b825d)
+![Restaurant Ratings Analysis_page-0005](https://github.com/karlyndiary/Restaurant-Ratings-Analysis/assets/116041695/55afce3c-8178-4868-9269-0c4e716d8110)
 
 ## 🛠️ Technology Stack
 
